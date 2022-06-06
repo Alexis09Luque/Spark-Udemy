@@ -7,4 +7,5 @@ Proyecto sobre uso de Apache Spark
 Conocer los fundamentos de Apache spark
 ## Deployment
 El despliegue se hace con herramientas de GitHub
-
+## How To Contribute
+Hacer un fork al repositorio
