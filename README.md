@@ -8,3 +8,4 @@ Conocer los fundamentos de Apache spark
 ## Deployment
 El despliegue se hace en github
 ## How To Contribute
+Hacer un fork al repositorio
