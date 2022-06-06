@@ -6,5 +6,5 @@ Proyecto sobre uso de spark
 ## Purpose
 Conocer los fundamentos de Apache spark
 ## Deployment
-
+El despliegue se hace en github
 ## How To Contribute
